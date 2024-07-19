@@ -1,0 +1,19 @@
+{
+  "name": "transfermusic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "googleapis": "^140.0.1",
+    "puppeteer": "^22.13.1",
+    "spotify-web-api-node": "^5.0.2"
+  }
+}
